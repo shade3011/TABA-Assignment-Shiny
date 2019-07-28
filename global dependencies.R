@@ -1,0 +1,9 @@
+if (!require(udpipe)) {install.packages("udpipe")}
+if (!require(ggplot2)) {install.packages("ggplot2")}
+if (!require(igraph)) {install.packages("igraph")}
+if (!require(ggraph)) {install.packages("ggraph")}
+if (!require(wordcloud)) {install.packages("wordcloud")}
+if (!require(shiny)) {install.packages("shiny")}
+if (!require(tidyr)) {install.packages("tidyr")}
+if (!require(tidyverse)) {install.packages("tidyverse")}
+if (!require(tidytext)) {install.packages("tidytext")}
